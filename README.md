@@ -6,15 +6,16 @@ We are a team of passionate developers and designers who collaborated to create 
 
 Team Members:
 Anold Kiriago - kiriagoarnold@gmail.com
+
+
 Amos Kiplagat - amokip10@gmail.com
 
 Project
 Here are some of the key projects included in this portfolio:
+
 Description: Brief overview of the project.
 
 Tech Stack: HTML5 and CSS3 & JS
 
-Live Demo: (https://phenomenal-crostata-2f4730.netlify.app/)
+Live Demo: (https://arnoldramseyportfolio.netlify.app/)
 
-Contributing
-We welcome contributions from the community! Please see our CONTRIBUTING.md file for guidelines on how to get involved.
