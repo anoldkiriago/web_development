@@ -1,7 +1,9 @@
 Group Project - Portfolio
+
 Welcome to our Group Project! This repository showcases a project built by our team, demonstrating our skills in design, development, and teamwork.
 
 About the Team
+
 We are a team of passionate developers and designers who collaborated to create impactful projects. Each project highlights different aspects of our technical and creative abilities.
 
 Team Members:
